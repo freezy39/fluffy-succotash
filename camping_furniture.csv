@@ -1,0 +1,15 @@
+product,seats,legs,width,color,label
+low_loveseat,2,short,regular,green_dill,low_loveseat
+low_loveseat,2,short,regular,blue_deep_lake,low_loveseat
+low_loveseat,2,short,regular,brown_bungee_cord,low_loveseat
+lowdown_couch,3,short,regular,blue_deep_lake,lowdown_couch
+lowdown_couch,3,short,regular,brown_bungee_cord,lowdown_couch
+loveseat,2,regular,regular,blue_deep_lake,loveseat
+loveseat,2,regular,regular,brown_bungee_cord,loveseat
+lowdown_chair,1,short,regular,green_dill,lowdown_chair
+lowdown_chair,1,short,regular,blue_deep_lake,lowdown_chair
+lowdown_chair,1,short,regular,brown_bungee_cord,lowdown_chair
+deluxe_lounge_chair,1,regular,wide,blue_deep_lake,deluxe_lounge_chair
+deluxe_lounge_chair,1,regular,wide,brown_bungee_cord,deluxe_lounge_chair
+essential_chair,1,regular,regular,blue_deep_lake,essential_chair
+essential_chair,1,regular,regular,brown_bungee_cord,essential_chair
